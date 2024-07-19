@@ -1,0 +1,69 @@
+/* Definição das variáveis CSS */
+:root {
+    --pizazz-100: #fffbec;
+    --pizazz-200: #fff7d3;
+    --pizazz-300: #ffeba5;
+    --pizazz-400: #ffda6d;
+    --pizazz-500: #ffa70a;
+    --pizazz-600: #ff9002;
+    --pizazz-700: #cc6902;
+  }
+  
+  /* Classes para cor de fundo */
+  .bg-pizazz-100 {
+    background-color: var(--pizazz-100);
+  }
+  
+  .bg-pizazz-200 {
+    background-color: var(--pizazz-200);
+  }
+  
+  .bg-pizazz-300 {
+    background-color: var(--pizazz-300);
+  }
+  
+  .bg-pizazz-400 {
+    background-color: var(--pizazz-400);
+  }
+  
+  .bg-pizazz-500 {
+    background-color: var(--pizazz-500);
+  }
+  
+  .bg-pizazz-600 {
+    background-color: var(--pizazz-600);
+  }
+  
+  .bg-pizazz-700 {
+    background-color: var(--pizazz-700);
+  }
+  
+  /* Classes para cor do texto */
+  .text-pizazz-100 {
+    color: var(--pizazz-100);
+  }
+  
+  .text-pizazz-200 {
+    color: var(--pizazz-200);
+  }
+  
+  .text-pizazz-300 {
+    color: var(--pizazz-300);
+  }
+  
+  .text-pizazz-400 {
+    color: var(--pizazz-400);
+  }
+  
+  .text-pizazz-500 {
+    color: var(--pizazz-500);
+  }
+  
+  .text-pizazz-600 {
+    color: var(--pizazz-600);
+  }
+  
+  .text-pizazz-700 {
+    color: var(--pizazz-700);
+  }
+  
